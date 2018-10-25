@@ -1,4 +1,4 @@
-token=NTA1MDAyMzQ4OTc2Nzk5Nzc0.DrNPww.MvHxGRfy76WoW_cllhvMmMljnQA
+token=NTA1MDAyMzQ4OTc2Nzk5Nzc0.DrNTGQ.XbCRd_CLqq00bOyiw4VOMCMtTQE
 owner=474200581163057153
 prefix=3
 game=Type 3help | 『乙ϗ乃』
